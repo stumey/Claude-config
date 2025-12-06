@@ -1,0 +1,55 @@
+# Claude Code files to exclude from version control
+
+# History and session data
+history.jsonl
+*.log
+
+# Debug and temporary files
+debug/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Personal/sensitive data
+*.key
+*.pem
+*.p12
+secrets/
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Backup files
+*.bak
+backup/
+
+# Node modules (if any tooling uses it)
+node_modules/
+
+# Python cache (if any tooling uses it)
+__pycache__/
+*.pyc
+
+# Session and project-specific data
+session-env/
+projects/
+plans/
+downloads/
+file-history/
+shell-snapshots/
+todos/
+statsig/
+ide/
+
+# Keep these important files
+!agents/
+!skills/
+!settings.json
+!README.md
+!install.sh
+!.gitignore
