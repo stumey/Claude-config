@@ -5,7 +5,7 @@ This repository contains my global Claude Code configuration including custom su
 ## Contents
 
 - **18 Production-Ready Subagents** - Specialized AI agents for different technologies and tasks
-- **12 Professional Skills** - Reusable expertise modules that agents can leverage
+- **11 Professional Skills** - Reusable expertise modules that agents can leverage
 - **Global Settings** - Claude Code configuration preferences
 
 ## Technology Stack Coverage
@@ -18,7 +18,7 @@ This repository contains my global Claude Code configuration including custom su
 - **Kubernetes** - Container orchestration, GitOps, service mesh, multi-cloud (EKS/AKS/GKE)
 - **Terraform** - Infrastructure as Code, state management, multi-cloud deployments
 - **Docker** - Containerization and optimization
-- **CI/CD** - GitHub Actions, GitLab CI, deployment pipelines
+- **CI/CD** - GitHub Actions, deployment pipelines
 
 ### Architecture & Operations
 - **Cloud Architecture** - AWS, Azure, GCP, hybrid cloud
@@ -55,7 +55,7 @@ This repository contains my global Claude Code configuration including custom su
 - `docker-expert` - Docker containerization and optimization
 - `network-engineer` - Cloud networking and connectivity
 
-## Skills (12)
+## Skills (11)
 
 ### Kubernetes Skills (4)
 - `gitops-workflow` - ArgoCD/Flux GitOps patterns and workflows
@@ -66,10 +66,9 @@ This repository contains my global Claude Code configuration including custom su
 ### Terraform Skills (1)
 - `terraform-module-library` - Reusable Terraform modules for AWS/Azure/GCP
 
-### CI/CD Skills (4)
+### CI/CD Skills (3)
 - `deployment-pipeline-design` - Multi-stage CI/CD pipeline patterns
 - `github-actions-templates` - Production-ready GitHub Actions workflows
-- `gitlab-ci-patterns` - GitLab CI/CD patterns and best practices
 - `secrets-management` - Secure secrets management for pipelines
 
 ### Cloud Infrastructure Skills (3)
